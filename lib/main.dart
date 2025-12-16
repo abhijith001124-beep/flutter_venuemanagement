@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:venuemanagement/editprofile.dart';
 import 'package:venuemanagement/login.dart';
 
 void main() {
